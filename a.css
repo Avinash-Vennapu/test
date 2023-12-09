@@ -1,0 +1,396 @@
+.s1{
+    height: 60px;
+    width: 1500px;
+    border: 2px solid rgb(111, 102, 102) ;
+    background-color:black;
+
+}
+.s2{
+    height: 60px;
+    width: 120px;
+
+}
+.s3{
+    position: relative;
+    left: 150px;
+    bottom: 68px;
+    color: white;
+}
+.s4{
+    position: relative;
+    left: 150px;
+    bottom: 90px;
+    font-size: 20px;
+    color: white;
+}
+
+.s5{
+    position: relative;
+    left: 360px;
+    bottom: 148px;
+    height: 33px;
+    width: 50px;
+    color: black;
+    border-radius: 5px;
+
+}
+.s6{
+    position: relative;
+    left: 356px;
+    bottom: 148px;
+    height: 30px;
+    width: 600px;
+    border-radius: 5px;
+
+}
+.s7{
+    height: 30px;
+    width: 50px;
+    border: 2px solid;
+    position: relative;
+    left: 1018px;
+    bottom: 183px;
+    background-color: orange;
+    border-radius: 5px;
+
+}
+.s8{
+    position: relative;
+    left: 90px;
+    top: 6px;
+}
+.s9{
+    position: relative;
+    left: 115px;
+    bottom: 15px;
+
+}
+.s10{
+    position: relative;
+    left: 200px;
+    bottom: 60px;
+    font-size: medium;
+    color: white;
+}
+.s11{
+    position: relative;
+    left: 268px;
+    width: 50px;
+    bottom: 95px;
+    font-size: medium;
+    color: white;
+
+}
+.s12{
+    position: relative;
+    left: 200px;
+    bottom: 115px;
+    color: white;
+}
+.s13{
+    position: relative;
+    left: 280px;
+    bottom: 156px;
+    color: white;
+}
+.s14{
+    position: relative;
+    left: 315px;
+    bottom: 197px;
+    color: white;
+}
+.s15{
+    position: relative;
+    left: 390px;
+    bottom: 255px;
+    font-size: medium;
+    color: white;
+}
+.s16{
+    position: relative;
+    left: 390px;
+    bottom: 282px;
+    font-size: x-large;
+    color: white;
+}
+.s17{
+    position: relative;
+    bottom: 336px;
+    left: 3px;
+}
+.s18{
+    height: 40px;
+    width: 1500px;
+    border: 2px solid rgb(95, 88, 88);
+    background-color:rgb(36, 34, 34);
+}
+button{
+    padding: 10px;
+    background-color:rgb(36, 34, 34);
+    color: white;
+    
+}
+.s19{
+    position: relative;
+    left: 220px;
+    color: white;
+}
+.s20{
+    height: 600px;
+    width: 1500px;
+    border: 2px solid black;
+    background-image: url(./amazon\ img.jpg ) ;
+    background-position: top;
+    background-size: contain;
+}
+.s21{
+    height: 330px;
+    width: 400px;
+    border: 2px solid black;
+    position: relative;
+    top: 265px;
+    left: 50px;
+    background-color: white;
+}
+.s22{
+    height: 330px;
+    width: 400px;
+    border: 2px solid rgb(107, 101, 101);
+    position: relative;
+    bottom: 67px;
+    background-color: white;
+    left: 550px;
+    
+    
+}
+.s23{
+    height: 330px;
+    width: 400px;
+    border: 2px solid rgb(72, 66, 66);
+    position: relative;
+    bottom: 337px;
+    background-color: white;
+    left: 1050px;
+    
+    
+}
+.s24{
+    font-size: 20px;
+    position: relative;
+    left: 40px;
+    font-size: 30px;
+    
+}
+.s25{
+    position: relative;
+    left: 50px;
+}
+.s26{
+    font-size: 30px;
+    position: relative;
+    left: 30px;
+
+}
+.s27{
+    position: relative;
+    left: 5px;
+    bottom: 30px;
+    
+
+
+}
+.s28{
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+    bottom: 15px;
+}
+.s29{
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+}
+.s30{
+    position: relative;
+    left: 25px;
+}
+.s31{
+    position: relative;
+    left: 60px;
+}
+.s32{
+    height: 330px;
+    width: 400px;
+    border: 2px solid;
+    position: relative;
+    bottom: 330px;
+    left: 50px;
+    background-color: rgb(243, 236, 236);
+    
+
+}
+.s33{
+    height: 330px;
+    width: 400px;
+    border: 2px solid;
+    position: relative;
+    left: 550px;
+    bottom: 660px;
+    background-color: rgb(174, 191, 205);
+}
+.s34{
+    height: 330px;
+    width: 400px;
+    border: 2px solid ;
+    position: relative;
+    left: 1050px;
+    bottom: 995px;
+    background-color: rgb(169, 231, 231);
+    
+    
+}
+.s35{
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+
+
+}
+.s37{
+    position: relative;
+    left: 50px;
+}
+.s36{
+    font-size: 30px;
+    position: relative;
+    left: 19px;
+}
+.s38{
+    font-size: 30px;
+    position: relative;
+    left: 12px;
+}
+.s39{
+    position: relative;
+    left: 10px;
+    height: 220px;
+    bottom: 10px;
+}
+.s40{
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+}
+ .s41{
+    height: 430px;
+    width: 1500px;
+    border: 2px solid;
+    position: relative;
+    bottom: 990px;
+    background-color: rgb(192, 192, 142);
+
+    
+}
+.s42{
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+.s43{
+    position: relative;
+    top: 40px;
+    left: 220px;
+}
+.s44{
+    position: relative;
+    top: 40px;
+    left: 370px;
+}
+.s45{
+    position: relative;
+    top: 40px;
+    left: 500px;
+}
+.s46{
+    position: relative;
+    left: 250px;
+    font-size: 70px;
+}
+.s47{
+    height: 400px;
+    width: 1500px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 980px;
+    background-color: rgb(192, 192, 142);
+}
+.s48{
+    position: relative;
+    top: 10px;
+    left: 50px;
+
+}
+.s49{
+    position: relative;
+    top: 10px;
+    left: 80px;
+    
+}
+.s50{
+    position: relative;
+    top: 10px;
+    left: 120px;
+    
+}
+.s51{
+    position: relative;
+    top: 10px;
+    left: 160px;
+    
+}
+.s52{
+    position: relative;
+    top: 100px;
+    left: 200px;
+    top: 10px;
+    
+}
+.s53{
+    font-size: 50px;
+    position: relative;
+    left: 300px;
+}
+.s54{
+    height: 450px;
+    width: 1500px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 970px;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    background-color:  rgb(192, 192, 142);
+
+}
+.s55{
+    position: relative;
+    top: 200px;
+    right: 200px;
+    justify-content: space-evenly;
+}
+.s60{
+    font-weight: bolder;
+    font-size: 40px;
+    position: relative;
+    left: 600px;
+
+}
+body{
+    background-color: seashell;
+}
+.y6{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
